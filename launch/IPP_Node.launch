@@ -1,0 +1,4 @@
+<launch>
+    <node name="IPPNode" pkg="ipprrt" type="IPPNode" output="screen">
+    </node>
+</launch>
